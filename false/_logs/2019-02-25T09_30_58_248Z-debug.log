@@ -1,0 +1,15 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'run', 'dev', '--no-cache' ]
+2 info using npm@6.1.0
+3 info using node@v8.11.2
+4 verbose run-script [ 'predev', 'dev', 'postdev' ]
+5 info lifecycle larabbs-weapp@0.0.2~predev: larabbs-weapp@0.0.2
+6 info lifecycle larabbs-weapp@0.0.2~dev: larabbs-weapp@0.0.2
+7 verbose lifecycle larabbs-weapp@0.0.2~dev: unsafe-perm in lifecycle true
+8 verbose lifecycle larabbs-weapp@0.0.2~dev: PATH: /usr/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/home/vagrant/Code/larabbs-weapp/node_modules/.bin:/home/vagrant/.composer/vendor/bin:/usr/local/go/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-10-oracle/bin:/usr/lib/jvm/java-10-oracle/db/bin
+9 verbose lifecycle larabbs-weapp@0.0.2~dev: CWD: /home/vagrant/Code/larabbs-weapp
+10 silly lifecycle larabbs-weapp@0.0.2~dev: Args: [ '-c', 'wepy build --watch' ]
+11 timing npm Completed in 11740ms
+12 error cb() never called!
+13 error This is an error with npm itself. Please report this error at:
+14 error <https://github.com/npm/npm/issues>
