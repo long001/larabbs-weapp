@@ -1,3 +1,11 @@
+安装
+需要node
+npm install
+npm run dev
+npm run build 创建编译版本用于发布
+
+
+
 1. 申请了小程序个人账号；
 2. 微信开发者工具的使用；
 3. 创建了 larabbs-weapp 项目；
